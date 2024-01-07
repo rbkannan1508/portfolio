@@ -1,2 +1,3 @@
-# portfolio
-My portfolio website
+# Portfolio website
+
+Will be hosted in [https://bharathikannan.dev](https://bharathikannan.dev).
